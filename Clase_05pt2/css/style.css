@@ -1,0 +1,41 @@
+/* Selector universal: para todos los elementos dentro del doc HTML */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* diseño particular para todos los elementos en el body */
+
+body{
+    background-color: grey;
+}
+
+/* El !important sirve en caso de que se esté sobreeponiendo un atributo, por lo que este toma autoridad */
+h1{
+    color: white !important;
+}
+
+p{
+    color: whitesmoke;
+}
+
+div{
+    color: red;
+    width: 200px;
+    height: 50px;
+}
+
+/* Es individual porque se trata del ID */
+#blueText{
+    color: blue;
+}
+
+/* Son clases, por lo que se pueden reutilizar */
+.generalText{
+    color: blueviolet;
+}
+
+.generalFontSize{
+    font-size: 25px;
+}
