@@ -9,4 +9,7 @@ CLASE 05 PT2:
 - Especifidad (!important, #, ., etc)
 - Orden de lectura en CSS (se aplica la última declaración encontrada al elemento)
 
-Proyecto: Consiste en la creación de dos páginas HTML y un archivo CSS para probar y experimentar con diferentes estilos y diseños. Se incluyen varios elementos de texto y párrafos, algunos con clases específicas y un ID. El archivo CSS proporciona reglas de estilo que afectan a los elementos en ambas páginas HTML, permitiendo probar diferentes combinaciones de colores, tamaños de fuente y otros atributos visuales.
+Proyecto: Consiste en la creación de dos páginas HTML y un archivo CSS para probar y experimentar con diferentes estilos y diseños. 
+Se incluyen varios elementos de texto y párrafos, algunos con clases específicas y un ID. El archivo CSS proporciona reglas de 
+estilo que afectan a los elementos en ambas páginas HTML, permitiendo probar diferentes combinaciones de colores, tamaños de fuente 
+y otros atributos visuales.
