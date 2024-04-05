@@ -1,0 +1,13 @@
+fecha: 29/02/2024
+
+CLASE 01:
+¿Qué aprendimos?
+- Principales diferencias entre los conceptos de Página, Sitio y Aplicación.
+- Ventajas y Desventajas de trabajar con aplicaciones web y de escritorio.
+- Concepto de Cliente-Servidor, qué conlleva el Front-End y qué conlleva el Back-End.
+- Introducción al lenguaje HTML como maqueta del Front.
+- Estructura de una página web visual y en código.
+- Sintáxis: vimos etiquetas básicas de texto y títulos.
+- El formato de las etiquetas: etiqueta, atributo, valor y contenido.
+
+Proyecto: Solo una prueba de encabezados/títulos 

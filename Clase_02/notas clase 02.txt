@@ -1,0 +1,12 @@
+fecha: 05/03/2024
+
+CLASE 02:
+¿Qué aprendimos?
+- Tipos de listas
+- Tipos de enlaces
+- Rutas absolutas y relativas
+- Tipos de elementos, en bloque y en línea
+- Formatos de texto
+- Etiquetas básicas
+
+Proyecto: Presenta una serie de ejemplos que ilustran varias técnicas para estructurar y estilizar texto en HTML, así como ejemplos de listas y enlaces. Incluye ejemplos de texto en diferentes formatos, como itálica, negrita, subrayado, marcado, insertado, etc. Además, se muestran ejemplos de listas desordenadas, ordenadas, dependientes y de definición, junto con ejemplos de enlaces a diferentes destinos, incluidos enlaces a otras páginas y a archivos descargables.

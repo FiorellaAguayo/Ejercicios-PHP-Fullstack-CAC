@@ -1,0 +1,9 @@
+fecha: 07/03/2024
+
+CLASE 03:
+¿Qué aprendimos?
+- Multimedia con HTML, imágenes, video, audio, iframes
+- Tablas
+- Inspección de páginas
+
+Proyecto: Consiste en dos páginas HTML que demuestran diversas características de HTML, incluyendo la estructura básica de una página web, el uso de divs para organizar el contenido, la incorporación de imágenes locales y enlaces a imágenes en línea, la inclusión de videos y audios, la inserción de mapas de Google Maps mediante iframes, la creación de líneas horizontales con la etiqueta <hr>, y la construcción de tablas de datos con la etiqueta <table>.

@@ -1,0 +1,10 @@
+fecha: 12/03/2024
+
+CLASE 04:
+¿Qué aprendimos?
+- Formularios
+- Etiquetas semánticas
+- Subida a un servidor gratuito
+- Como pensar un proyecto web
+
+Proyecto: Consiste en una página HTML que muestra un formulario con una variedad de inputs y elementos interactivos. El formulario está diseñado para capturar información del usuario y presenta una variedad de campos como nombre, apellido, dirección, altura, email, contraseña, fecha, archivo, rango, checkbox, radio button, comentario, selección de provincias y selección de autos. Además, utiliza etiquetas <fieldset> y <legend> para agrupar ciertos inputs visualmente.
