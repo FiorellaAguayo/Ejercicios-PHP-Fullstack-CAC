@@ -1,0 +1,15 @@
+Acá dejo algunos comandos para uso general y de git
+
+cd..                          -> Vuelve una carpeta hacia atras
+dir                           -> Muestra todos los elementos que hay en la carpeta
+pwd                           -> En qué estructura de archivos estoy parado
+
+Si quiero crear un repo local:
+git --version                 -> Es para verificar si se instaló git y qué versión tenemos
+git init                      -> Inicializa un repositorio vacío en la carpeta que este
+git add index.html            -> Agrega un archivo
+git add .                     -> Agrega todos los archivos
+git branch                    -> Me dice que rama tiene
+git branch -m main            -> Cambia la rama master a main
+git remote add origin https.. -> Enlaza el repo local con el de github
+git push -u origin main       -> Empuja el contenido del repo local al repo main (en caso de no cambiarlo, poner master) 
