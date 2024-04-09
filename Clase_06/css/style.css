@@ -1,0 +1,39 @@
+/* variable global, me sirve para que todos los elementos que esten referenciados a la variable
+color primario, se cambian */
+:root{
+    font-size: 22px;
+    --color-primario: #007bff; 
+    --color-secundario: #e3ed54;
+}
+
+/* tamaño normal que toma toda la pantalla debido a que está en el html, 1em = 16px */
+html{
+    font-size: 1em;
+}
+
+body{
+    background-color: var(--color-primario);
+}
+
+h1{
+    font-size: 0,5rem;
+}
+
+h2{
+    font-size: 1rem;
+}
+
+h3{
+    font-size: 3rem;
+    color: rgb(16, 117, 120);
+}
+
+h1,h2{
+    color: #761F8D;
+}
+
+.cedarville-cursive-regular {
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
