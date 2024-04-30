@@ -1,0 +1,15 @@
+fecha: 4/04/2024
+
+CLASE 08:
+¿Qué aprendimos?
+- Selectores avanzados: Vimos selectores quea puntan a elementos específicos de manera precia, como
+selectores de descendencia, de clase, de hijo directo y de hermano.
+- Pseudoclases: Puedo aplicar estilos a elementos en cierto estado, como :hover, :first-child, :last-childy 
+y :nth-child.
+- Transformaciones, animaciones y transiciones: usé las transformaciones que nos permite modificar la apariencia
+y posición de los elementos, asi como las animaciones y transiciones que crean efectos
+visuales dinámicos en respuesta a acciones del usuario.
+- Animate.css: librería de animaciones que proporciona animaciones predefinidas mediante clases de CSS.
+
+Proyecto: Implementé una variedad de efectos visuales incluyendo selectores avanzados, pseudoclases,
+transformacuiones y animaciones personalizadas y de la biblioteca Animate.css.

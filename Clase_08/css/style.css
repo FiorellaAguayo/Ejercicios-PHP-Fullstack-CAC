@@ -1,0 +1,59 @@
+
+/*Afecta  a las p dentro del div*/
+div p{
+    color: red;
+}
+
+.texto p{
+    color: blue;
+}
+
+/*p como hijo directo de un div */
+div > p{
+    color: violet;
+}
+
+/*p como hermana de los div*/
+div~p{
+    color: orange;
+}
+
+/*PSEUDOCLASES*/
+
+.pseudoclases p:first-child{
+    color: aqua;
+}
+
+.pseudoclases p:last-child{
+    color: green;
+}
+
+.pseudoclases p:nth-child(3){
+    color: grey;
+}
+
+.pseudoclases{
+    background-color: burlywood;
+    width: 200px;
+}
+
+.pseudoclases:hover{
+    background-color: coral;
+    width: 300px;
+}
+
+#lorem::first-letter{
+    color: red;
+}
+
+#lorem::first-line{
+    color: cadetblue;
+}
+
+#lorem::before{
+    content:"😱";
+}
+
+#lorem::after{
+    content: "✅";
+}

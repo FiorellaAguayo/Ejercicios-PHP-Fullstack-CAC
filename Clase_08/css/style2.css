@@ -1,0 +1,44 @@
+.caja{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+/*translate*/
+
+/*movimiento suave de un segundo*/
+.caja{
+    transition: transform 1s ease;
+}
+
+/*se traslada*/
+#caja1:hover{
+    transform: translate(20px, 50px);
+}
+
+/*se transforma*/
+#caja2:hover{
+    transform: scale(1.5);
+}
+
+/*rotate*/
+#caja3:hover{
+    transform: rotate(45deg);
+}
+
+#caja4:hover{
+    transform: translate(20px, 50px) rotate(45deg) scale(1.5);
+}
+
+@keyframes cambioColor{
+    0%{background-color: red;}
+    50%{background-color: orange;}
+    100%{background-color: yellow;}
+}
+
+#caja5:hover{
+    transform: translate(20px, 50px) rotate(45deg) scale(1.5);
+    animation: cambioColor 3s infinite;
+}
