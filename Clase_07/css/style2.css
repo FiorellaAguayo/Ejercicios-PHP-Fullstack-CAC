@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    width: 160px;
+    height: 160px;
+    background-color: red;
+    max-width: 300px;
+    max-height: 300px;
+
+    box-sizing: border-box; /*los elementos que afecten a la caja se van a adaptar al ancho y al alto*/
+}
+
+#caja2{
+    position: relative;
+    left: 160px;
+    top:-160px;
+}

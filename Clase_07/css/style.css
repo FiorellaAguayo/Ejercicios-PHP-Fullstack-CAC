@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    width: 160px;
+    height: 160px;
+    background-color: red;
+    max-width: 300px;
+    max-height: 300px;
+
+    margin-top: 20px;
+    box-sizing: border-box; /*los elementos que afecten a la caja se van a adaptar al ancho y al alto*/
+}
+
+#caja1{
+    /*
+    margin-left: 20px;
+    margin-top: 20px;
+    */
+    margin: 20px 0px 0px 20px; /*las 4 propiedades (arriba, izquierda, abajo, derecha) en una sola linea*/
+}
+
+#caja2{
+    border: 5px solid blue; /*si la caja mide 160px ahora mide 170px*/
+    width: 150px; /*tengo que acomodar estas propiedades para que quede igual a las demas cajas*/
+    height: 150px;
+
+    /*otros tipos de bordes*/
+    border: 5px dashed blue;
+    border: 5px dotted blue;
+    border-top: 1px solid yellow;
+    border-bottom: 2px dotted violet;
+}
+
+#caja3{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+#caja4{
+    overflow: hidden; /*esconde el contenido que sobra de la caja*/
+    overflow: scroll;
+}

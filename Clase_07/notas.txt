@@ -1,0 +1,21 @@
+fecha: 26/03/2024
+
+CLASE 07:
+¿Qué aprendimos?
+- Modelo de cajas.
+Vimos el concepto fundamentaldel diseño web: el modelo de cajas.
+Aprendimos sobre los cmponentes de una caja: borde, margen, relleno
+y contenido, y cómo interactúan para dar forma y espacio a los elementos
+en una página web.
+
+- Posicionamiento.
+Vimos posicionamiento estático que es el default, el relativo que permite
+ajustar la posición de un elemento respecto a su posición original,
+el absoluto que posiciona un elemento de manera precisa en relación con el
+que tiene adelante, el fijo que lo ancla a una posición en la ventana del
+navegador, y el pegajoso que combina comportamientos de posición relativa
+y fija dependiendo del scroll del usuario.
+
+Proyecto: Consiste en la creación de una estructura HTML con elementos div
+y el uso de CSS para aplicar estilos y posicionar los elementos utilizando
+diferentes técnicas de posicionamiento.
